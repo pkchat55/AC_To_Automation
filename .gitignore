@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.cap-lock.txt
+.env
+.env.*
+.DS_Store

@@ -1,0 +1,7 @@
+streamlit
+requests
+pytest
+playwright
+langchain
+langchain-openai
+openai
